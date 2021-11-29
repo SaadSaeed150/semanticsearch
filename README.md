@@ -1,6 +1,6 @@
 # semanticsearch
 
-Foobar is a deep learning based semantic search platform that computes similarity scores between provided query and documents. Documents can be passed directly to the API 
+This is a deep learning based semantic search platform that computes similarity scores between provided query and documents. Documents can be passed directly to the API 
 
 ## Installation
 
