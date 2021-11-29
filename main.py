@@ -8,8 +8,8 @@ app = flask.Flask(__name__)
 app.config["DEBUG"] = True
 
 # Reading model embedder from folder models
-embedder = SentenceTransformer('models/msmarco')
-embedder2 = SentenceTransformer('models/quora_ranking')
+embedder = SentenceTransformer('models/deepAI')
+embedder2 = SentenceTransformer('models/semanticML')
 
 
 @app.route('/', methods=['GET'])
