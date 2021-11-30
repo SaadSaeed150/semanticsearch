@@ -4,27 +4,7 @@ This is a deep learning based semantic search platform that computes similarity 
 
 ## Installation
 
-First clone the repo and download the trained models from this googledrive link:
-
-
-```bash
-deepAI:
-https://drive.google.com/drive/folders/101IW0GGIUTYb114eQ8HNi4sCYF2eIsfO?usp=sharing
-
-semanticML:
-https://drive.google.com/drive/folders/110i2pRfN4GLBVrt-avEXlzfr-Q2ICuBW?usp=sharing
-```
-
-Create a folder with name "models" and place these trained models in the models folder. 
-
-Hierarchy structure
-
-```bash
-
--> models/deepAI
-
--> models/semanticML
-```
+First clone the repo 
 
 After that use this command to download all required libraries
 
